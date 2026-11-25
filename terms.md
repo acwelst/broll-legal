@@ -25,7 +25,7 @@ A shared roll is between you and the people you invite. Don't add anything that:
 
 Only share a roll's link with people you want in it: anyone with the link can join while the host allows invites.
 
-**Report and block.** Tap the name on a friend's photo to report the photo or block the person. A report removes the photo from your phone and sends it to us; blocking removes all of that person's photos from your phone. The roll's host can delete anyone's photo for everyone and remove people from the roll. We look at reports within 24 hours and act on them where we can, which may include asking the host to remove content, or reporting illegal content to the police. For anything urgent, contact us {% include contact.md %}.
+**Reporting and removing.** Tap the name on a friend's photo to report it: the photo is removed from your phone and sent to us. The roll's host can delete anyone's photo for everyone and remove people from the roll, and you can leave any roll at any time. We look at reports within 24 hours and act on them where we can, which may include asking the host to remove content, or reporting illegal content to the police. For anything urgent, contact us {% include contact.md %}.
 
 ## 3. Purchases
 

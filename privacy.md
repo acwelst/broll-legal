@@ -36,12 +36,12 @@ What other members of a shared roll see: the photos and Live moment clips added 
 
 We can't see shared rolls: they live in the host's iCloud, not on our servers. If you leave a roll, its photos are removed from your phone; photos other people have already downloaded stay on their phones. If the host deletes the roll, it is deleted for everyone.
 
-## Reports and blocking
+## Reports
 
-You can report a photo in a shared roll, or block the person who took it, by tapping their name on the photo.
+You can report a photo in a shared roll by tapping the name of the person who took it.
 
 - **Reporting** removes the photo from your phone and opens an email to us with a small copy of the photo, the roll's and photo's IDs, and the names the reporter and the photo's taker use in the roll. We use it only to deal with the report, and delete it once the report is closed.
-- **Blocking** removes that person's photos from your phone and stops new ones arriving. It stays on your phone; nobody is told. You can unblock people in Settings → Privacy → Blocked people.
+- **Removing and leaving.** The host can remove anyone from their roll, and you can leave any roll, which removes its photos from your phone.
 
 ## Anonymous usage counts
 

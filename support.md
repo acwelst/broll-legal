@@ -22,7 +22,7 @@ In the viewfinder's menu, or in the iPhone's Settings → Privacy & Security →
 Open the roll menu, tap the invite button on a roll and send the link to friends. The roll lives in your iCloud and uses your iCloud storage. Anyone with the link can join while invites are open.
 
 **Someone added a photo I don't want to see.**
-Tap their name on the photo to report it or block them. If it's your roll, you can delete the photo for everyone or remove the person from the roll menu.
+Tap their name on the photo to report it, or leave the roll. If it's your roll, you can delete the photo for everyone or remove the person from the roll menu.
 
 **Refunds**
 Refunds go through Apple: [reportaproblem.apple.com](https://reportaproblem.apple.com).
