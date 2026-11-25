@@ -1,0 +1,1 @@
+{% if site.support_email != "" %}at [{{ site.support_email }}](mailto:{{ site.support_email }}){% else %}from the app, in Settings → Send feedback{% endif %}
